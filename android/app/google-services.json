@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219743573192",
+    "firebase_url": "https://what-saap-b8ed9.firebaseio.com",
+    "project_id": "what-saap-b8ed9",
+    "storage_bucket": "what-saap-b8ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219743573192:android:f33d064c5378575dbc41fd",
+        "android_client_info": {
+          "package_name": "com.whats_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219743573192-j3pmsp91nj690miqlaofdc0tfjat1f9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4UIab4NRSx1G3xr5wK6rMI22XimcCRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219743573192-j3pmsp91nj690miqlaofdc0tfjat1f9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
